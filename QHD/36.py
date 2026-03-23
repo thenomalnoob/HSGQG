@@ -1,2 +1,3 @@
 print("Hollywood");
-for i in 
+for i in range(5):
+    print(i)
